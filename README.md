@@ -4,7 +4,7 @@ Proyecto del curso "Programar con criterio en la era de la IA".
 Pregunta: ¿qué características de un jugador, conocidas en el draft,
 permiten pronosticar su éxito profesional?
 
-Autor/a: [tu nombre y apellido]
+Autor/a: Ximena González Pérez
 
 ## Datos
 - Archivo: nfl_data.csv del repositorio phcs971/nfl-draft-dataset
